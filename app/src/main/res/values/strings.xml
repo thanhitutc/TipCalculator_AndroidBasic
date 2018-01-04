@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="bill_mount_lable">Bill Amount</string>
+    <string name="percent_lable">Percent</string>
+    <string name="tip_lable">Tip</string>
+    <string name="total_lable">Total</string>
+
+</resources>
